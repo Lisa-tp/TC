@@ -1,3 +1,3 @@
 # TC
-Techniki programowania projekt4
-created branch new branch "testing"
+Techniki programowania projekt4.
+ Created new branch "testing"
